@@ -1,0 +1,4 @@
+baseURL = "https://www.pojoni.dev/"
+languageCode = "en-us"
+title = "Christian Pojoni"
+theme = "uilite"
