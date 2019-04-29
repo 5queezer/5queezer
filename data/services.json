@@ -2,14 +2,24 @@
 	"title" : "Services",
 	"services" : [
 		{
-			"icon" : "pencil-ruler",
-			"title" : "Logo Design",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"icon" : "fab fa-wordpress",
+			"title" : "Wordpress",
+			"description" : "Plugin and theme development as extension of existing plugins or as a custom solution"
 		},
 		{
-			"icon" : "pen-nib",
-			"title" : "Graphics Design",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"icon" : "fab fa-vuejs",
+			"title" : "Vue.js",
+			"description" : "Nuxt.js and Single Page Applications as standalone or as Wordpress theme extension"
+		},
+		{
+			"icon" : "fas fa-server",
+			"title" : "Hosting",
+			"description" : "Dockerized Linux Hosting with domain and subdomain management"
+		},
+		{
+			"icon" : "fas fa-mask",
+			"title" : "Comics",
+			"description" : "Optical Enhancements for your website by a talented cartoonist"
 		}
 	]
 }

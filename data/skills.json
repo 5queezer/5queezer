@@ -1,10 +1,19 @@
 {
 	"title" : "Skills",
 	"skills" : {
-		"PHP" : "90",
-		"ECMAScript 6" : "80",
-		"Vue.js" : "65",
-		"Docker" : "97",
-		"Docker" : "97"
-	}
+		"PHP" : "80",
+		"ECMAScript 6" : "78",
+		"Vue.js" : "79",
+		"Docker" : "65",
+		"Wordpress" : "56",
+		"Git" : "81",
+		"C" : "74",
+		"C++" : "45",
+		"Blockchain" : "12",
+		"Firebase" : "25",
+		"Java" : "18",
+		"MySQL" : "78",
+		"Linux" : "95"
+	},
+	"cv" : "Download my CV"
 }
