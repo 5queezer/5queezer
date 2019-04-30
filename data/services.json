@@ -4,22 +4,22 @@
 		{
 			"icon" : "fab fa-wordpress",
 			"title" : "Wordpress",
-			"description" : "Plugin and theme development as extension of existing plugins or as a custom solution"
+			"description" : "Plugin and theme development as extension of an existing plugins or as a custom solution"
 		},
 		{
 			"icon" : "fab fa-vuejs",
 			"title" : "Vue.js",
-			"description" : "Nuxt.js and Single Page Applications as standalone or as Wordpress theme extension"
+			"description" : "Nuxt.js and Single Page Applications as a standalone app or as a Wordpress theme extension"
 		},
 		{
 			"icon" : "fas fa-server",
 			"title" : "Hosting",
-			"description" : "Dockerized Linux Hosting with domain and subdomain management"
+			"description" : "Dockerized Linux Hosting with domain and subdomain management and a daily backup service"
 		},
 		{
 			"icon" : "fas fa-mask",
 			"title" : "Comics",
-			"description" : "Optical Enhancements for your website by a talented cartoonist"
+			"description" : "Optical Enhancements for your website by a talented and passionate cartoonist"
 		}
 	]
 }
