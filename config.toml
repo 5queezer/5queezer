@@ -1,5 +1,6 @@
 baseURL = "https://www.pojoni.dev/"
 languageCode = "en-us"
-title = "Christian Pojoni"
 theme = "uilite"
-description = "I am a freelance developer who is proficient in PHP, WordPress and JavaScript."
+title = "Christian Pojoni"
+summary = "I am a freelance developer who is proficient in PHP, WordPress and JavaScript."
+keywords = "WordPress, web development, web design, PHP, JavaScript, JS, Docker, Linux, EcmaScript, plugin, theme"
