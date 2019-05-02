@@ -15,7 +15,8 @@
 		"Firebase" : "Practical experience with hosting Vue.js applications",
 		"MySQL" : "Advanced usage with Views, Functions and stored Procedures",
 		"Linux" : "> 10 Years experience in with various distributions such as Debian and Arch Linux",
-		"Blockchain" : "Communication with the Blockchain API trough 3rd party libraries such as Block.io"
+		"Blockchain" : "Communication with the Blockchain API trough 3rd party libraries such as Block.io",
+		"JasperReports" : "Generate billing information with JasperReports in JavaScript or Java"
 	},
 	"cv" : "Download CV"
 }
