@@ -11,3 +11,6 @@
 	path = public
 	url = git@github.com:5queezer/5queezer.github.io.git
 	branch = master
+[submodule "themes/documentation"]
+	path = themes/documentation
+	url = git@github.com:themefisher/dot-hugo-documentation-theme.git
