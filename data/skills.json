@@ -16,7 +16,8 @@
 		"MySQL" : "Advanced usage with Views, Functions and stored Procedures",
 		"Linux" : "> 10 Years experience in with various distributions such as Debian and Arch Linux",
 		"Blockchain" : "Communication with the Blockchain API trough 3rd party libraries such as Block.io",
-		"JasperReports" : "Generate billing information with JasperReports in JavaScript or Java"
+		"JasperReports" : "Generate billing information with JasperReports in JavaScript or Java",
+		"Bash" : "Simple script writing skills"
 	},
 	"cv" : "Download CV"
 }
