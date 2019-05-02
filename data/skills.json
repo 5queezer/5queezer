@@ -4,16 +4,18 @@
 		"PHP" : "80",
 		"ECMAScript 6" : "78",
 		"Vue.js" : "79",
-		"Docker" : "65",
-		"WordPress" : "56",
-		"Git" : "81",
-		"C" : "74",
-		"C++" : "45",
-		"Blockchain" : "12",
-		"Firebase" : "25",
-		"Java" : "18",
-		"MySQL" : "78",
-		"Linux" : "95"
+		"WordPress" : "56"
+	},
+	"tags" : {
+		"Docker" : "Dockerized hosting and web development",
+		"Git" : "Main version control system",
+		"C" : "Embedded Micocontroller Programming since 2006",
+		"C++" : "Learned in University due to it's similarity to Java",
+		"Java" : "First OOP Language learned in University",
+		"Firebase" : "Practical experience with hosting Vue.js applications",
+		"MySQL" : "Advanced usage with Views, Functions and stored Procedures",
+		"Linux" : "> 10 Years experience in with various distributions such as Debian and Arch Linux",
+		"Blockchain" : "Communication with the Blockchain API trough 3rd party libraries such as Block.io"
 	},
 	"cv" : "Download"
 }
