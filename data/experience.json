@@ -2,13 +2,13 @@
 	"title" : "Experience",
 	"experience" : [
 		{
-			"timeperiod" : "April 2019 - Present",
+			"timeperiod" : "Apr 2019 - Present",
 			"company" : "Freelancer",
 			"title" : "Full Stack Developer",
 			"description" : "Booking System for WordPress"
 		},
 		{
-			"timeperiod" : "Jan 2019 - March 2019",
+			"timeperiod" : "Jan 2019 - Mar 2019",
 			"company" : "Secret Source Technology S.L.",
 			"title" : "WordPress Developer",
 			"description" : "WordPress theme development and Extension of WP-CLI"
