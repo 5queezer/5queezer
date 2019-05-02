@@ -1,10 +1,10 @@
 {
 	"title" : "Skills",
 	"skills" : {
-		"PHP" : "80",
-		"ECMAScript 6" : "78",
-		"Vue.js" : "79",
-		"WordPress" : "56"
+		"PHP" : "65",
+		"ECMAScript 6" : "68",
+		"Vue.js" : "75",
+		"WordPress" : "80"
 	},
 	"tags" : {
 		"Docker" : "Dockerized hosting and web development",
@@ -17,5 +17,5 @@
 		"Linux" : "> 10 Years experience in with various distributions such as Debian and Arch Linux",
 		"Blockchain" : "Communication with the Blockchain API trough 3rd party libraries such as Block.io"
 	},
-	"cv" : "Download"
+	"cv" : "Download CV"
 }
