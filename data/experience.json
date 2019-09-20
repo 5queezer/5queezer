@@ -2,6 +2,12 @@
 	"title" : "Experience",
 	"experience" : [
 		{
+			"timeperiod" : "Jul 2019 - Present",
+			"company"    : "M47labs S.L.",
+			"title"      : "QA Engineer",
+			"description": "Audits for NLP / Personal Assistant Software"
+		},
+		{
 			"timeperiod" : "Apr 2019 - Present",
 			"company" : "Freelancer",
 			"title" : "Full Stack Developer",
