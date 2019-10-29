@@ -18,7 +18,9 @@
 		"Blockchain" : "Communication with the Blockchain API trough 3rd party libraries such as Block.io",
 		"JasperReports" : "Generate billing information with JasperReports in JavaScript or Java",
 		"Bash" : "Simple script writing skills",
-		"Sass" : "Structured and organized CSS with tools such as gulp"
+		"Sass" : "Structured and organized CSS with tools such as gulp",
+		"Python": "Basic Python scripting skills",
+		"Ruby": "Basic Ruby scripting skills"
 	},
 	"cv" : "Download CV"
 }

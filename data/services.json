@@ -15,12 +15,6 @@
 			"icon" : "fas fa-server",
 			"title" : "Hosting",
 			"description" : "Dockerized Linux Hosting with domain and subdomain management and a daily backup service"
-		},
-		{
-			"icon" : "fas fa-mask",
-			"title" : "Comics",
-			"description" : "Optical Enhancements for your website by a talented and passionate cartoonist",
-			"coming_soon": true
 		}
 	]
 }
