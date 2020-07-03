@@ -2,7 +2,13 @@
 	"title" : "Experience",
 	"experience" : [
 		{
-			"timeperiod" : "Jul 2019 - Present",
+			"timeperiod" : "Jun 2020 - Present",
+			"company"    : "Institut AllergoSan",
+			"title"      : "Web Developer",
+			"description": "WordPress and E-Commerce site building"
+		},
+		{
+			"timeperiod" : "Jul 2019 - Dec 2020",
 			"company"    : "M47labs S.L.",
 			"title"      : "QA Automation Engineer",
 			"description": "Audits for NLP / Personal Assistant Software"
