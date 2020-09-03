@@ -4,3 +4,4 @@ theme = "uilite"
 title = "Christian Pojoni"
 description = "I am a freelance developer who is proficient in PHP, WordPress and JavaScript."
 enableRobotsTXT = true
+googleAnalytics = "UA-177223901-1"

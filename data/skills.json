@@ -1,26 +1,25 @@
 {
-	"title" : "Skills",
-	"skills" : {
-		"PHP" : "65",
-		"ECMAScript 6" : "68",
-		"Vue.js" : "75",
-		"WordPress" : "80"
+	"title": "Skills",
+	"skills": {
+		"PHP": "65",
+		"ECMAScript 6": "68",
+		"Vue.js": "75",
+		"WordPress": "80"
 	},
-	"tags" : {
-		"Docker" : "Dockerized hosting and web development",
-		"Git" : "Proficiency with working in a team",
-		"C" : "Embedded Micocontroller programming since 2006",
-		"C++" : "Learned in university due to it's similarity to Java",
-		"Java" : "First OOP language learned in university",
-		"Firebase" : "Practical experience with hosting Vue.js applications",
-		"MySQL" : "Advanced usage with Views, Functions and Stored Procedures",
-		"Linux" : "> 10 Years experience with various distributions such as Debian and Arch Linux",
-		"Blockchain" : "Communication with the Blockchain API trough 3rd party libraries such as Block.io",
-		"JasperReports" : "Generate billing information with JasperReports in JavaScript or Java",
-		"Bash" : "Simple script writing skills",
-		"Sass" : "Structured and organized CSS with tools such as gulp",
+	"tags": {
+		"Docker": "Dockerized hosting and web development",
+		"Git": "Proficiency with working in a team",
+		"C": "Embedded Micocontroller programming since 2006",
+		"C++": "Learned in university due to it's similarity to Java",
+		"Java": "First OOP language learned in university",
+		"Firebase": "Practical experience with hosting Vue.js applications",
+		"MySQL": "Advanced usage with Views, Functions and Stored Procedures",
+		"Linux": "> 10 Years experience with various distributions such as Debian and Arch Linux",
+		"Blockchain": "Communication with the Blockchain API trough 3rd party libraries such as Block.io",
+		"JasperReports": "Generate billing information with JasperReports in JavaScript or Java",
+		"Bash": "Simple script writing skills",
+		"Sass": "Structured and organized CSS with tools such as gulp",
 		"Python": "Basic Python scripting skills",
 		"Ruby": "Basic Ruby scripting skills"
-	},
-	"cv" : "Download CV"
+	}
 }
