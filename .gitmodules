@@ -1,7 +1,0 @@
-[submodule "themes/uilite"]
-	path = themes/uilite
-	url = git@github.com:5queezer/hugo-uilite.git
-[submodule "public"]
-	path = public
-	url = git@github.com:5queezer/5queezer.github.io.git
-	branch = master

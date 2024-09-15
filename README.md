@@ -1,16 +1,31 @@
-# 5queezer
-Github Pages Hugo Template
+# Hey there, I'm Christian 👋
 
-Build on [Hugo](gethugo.io), this is my Developer Business Card that is hosted on GitHub Pages and callable trough [pojoni.dev](https://www.pojoni.dev).
+I'm a **Software Engineer** with deep experience across **all major platforms**, specializing in **macOS**, **iOS**, **watchOS**, and **tvOS**. With a background in **web development** (PHP, React, Vue) and **API-driven solutions**, I bring a creative and innovative touch to every project.
 
-To preview this template, [install Hugo](https://gohugo.io/getting-started/quick-start/#step-1-install-hugo) on your machine, clone this directory and run:
+### 🔧 My Tech Arsenal
+- **Major Platforms**: Swift, SwiftUI – building across iOS, macOS, watchOS, tvOS 🍏
+- **Java Spring Boot**: Crafting powerful backends and APIs.
+- **Python**: FastAPI, automation wizardry 🧙‍♂️
+- **Web Development**: Mastery of PHP, React, Vue (the old days!).
+- **APIs**: Building, integrating, and optimizing them.
+- **Web3**: Implemented smart strategies for *certain* automated systems 😉.
+- **Tools**: Git, GitHub, CI/CD, GCP – keeping the workflow smooth.
 
-```bash
-hugo serve
-```
+### 🚀 What I’m up to
+Currently working as a contractor for an innovative tech giant (NDA-bound 🔒), focusing on cutting-edge projects across multiple platforms.
 
-To build this template and write the compiled files into `public/`, run simply:
+### 🌱 Forever Learning
+Sharpening my skills in Swift, Python, and Java Spring Boot, while staying on top of the latest tech trends.
 
-```
-hugo
-```
+### 💬 Let's Chat About
+- Multi-platform development (macOS, iOS, watchOS, tvOS – I do it all!)
+- Java Spring Boot and API backends
+- Smart automation strategies 💡
+- Web development with PHP, React, or Vue
+- APIs – building, breaking, and optimizing them
+
+### 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/christian-pojoni/)
+- [GitHub](https://github.com/5queezer)
+
+Thanks for dropping by! Let's build something awesome 🚀
