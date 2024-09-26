@@ -12,7 +12,7 @@ I'm a **Software Engineer** with deep experience across **all major platforms**,
 - **Tools**: Git, GitHub, CI/CD, GCP – keeping the workflow smooth.
 
 ### 🚀 What I’m up to
-Currently working as a contractor for an innovative tech giant (NDA-bound 🔒), focusing on cutting-edge projects across multiple platforms.
+Currently working as a contractor for an innovative tech giant, focusing on cutting-edge projects across multiple platforms.
 
 ### 🌱 Forever Learning
 Sharpening my skills in Swift, Python, and Java Spring Boot, while staying on top of the latest tech trends.
