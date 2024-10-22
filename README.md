@@ -1,5 +1,3 @@
-# Greetings!
-
 I'm a **Software Engineer** with extensive experience across **major platforms**, specializing in **macOS**, **iOS**, **watchOS**, and **tvOS** development. With a solid background in **web development** (PHP, React, Vue) and expertise in **API-driven architectures**, I bring a creative and forward-thinking approach to every project.
 
 ### 🛠 Technical Expertise
