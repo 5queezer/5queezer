@@ -20,4 +20,5 @@
 </ul>
 
 <h2>Professional Development</h2>
-<p>Continuous exploration of emerging technologies and frameworks to maintain technical proficiency.</p>
+<p>I constantly explore new technologies, improve my skills, and adapt to changes in the industry to stay up to date.</p>
+
