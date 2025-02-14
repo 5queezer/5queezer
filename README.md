@@ -1,11 +1,11 @@
 <h1>About Me</h1>
-<p>I'm a software developer specializing in mobile, desktop, and web platforms.</p>
+<p>I build software across platforms, from backend systems to UI-heavy applications. My work spans native apps, web solutions, and automation tools—wherever code meets problem-solving.</p>
 
 <h2>Technical Focus</h2>
-<p>I develop native applications, backend systems, and automation solutions. My background includes extensive web development experience, with a primary focus on API development and system integration.</p>
+<p>I develop backend systems and automation solutions. My background includes extensive web development experience, with a primary focus on API development and system integration.</p>
 
 <h2>Areas of Interest</h2>
-<p>Beyond software development, I work with time series analysis and explore related technologies.</p>
+<p>Beyond software development, I explore time series analysis and related technologies.</p>
 
 <h2>Tech Stack</h2>
 <ul>
@@ -15,4 +15,3 @@
   <li>PHP, React, Vue for web solutions</li>
   <li>Git and cloud infrastructure</li>
 </ul>
-
