@@ -16,6 +16,3 @@
   <li>Git and cloud infrastructure</li>
 </ul>
 
-<h2>Professional Development</h2>
-<p>I constantly explore new technologies, improve my skills, and adapt to changes in the industry to stay up to date.</p>
-
