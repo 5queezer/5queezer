@@ -2,7 +2,7 @@
 <p>I'm a software developer specializing in mobile, desktop, and web platforms.</p>
 
 <h2>Why the Name 5queezer?</h2>
-<p>The name? No particular reason—just the first thing that came to mind. Sometimes, spontaneity leads to the best choices.</p>
+<p>The name? No particular reason; just the first thing that came to mind. Sometimes, spontaneity leads to the best choices.</p>
 
 <h2>Technical Focus</h2>
 <p>I develop native applications, backend systems, and automation solutions. My background includes extensive web development experience, with a primary focus on API development and system integration.</p>
