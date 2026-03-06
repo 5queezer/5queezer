@@ -1,17 +1,41 @@
-<h1>About Me</h1>
-<p>I build software across platforms, from backend systems to UI-heavy applications. My work spans native apps, web solutions, and automation tools—wherever code meets problem-solving.</p>
+# Christian Pojoni — Senior QA Automation & Backend Engineer
 
-<h2>Technical Focus</h2>
-<p>I develop backend systems and automation solutions. My background includes extensive web development experience, with a primary focus on API development and system integration.</p>
+> Building reliable systems at scale. Based in Madrid, open to remote.
 
-<h2>Areas of Interest</h2>
-<p>Beyond software development, I explore time series analysis and related technologies.</p>
+---
 
-<h2>Tech Stack</h2>
-<ul>
-  <li>Modern UI frameworks for cross-platform development</li>
-  <li>Java Spring Boot for backend systems</li>
-  <li>Python with FastAPI for rapid prototyping</li>
-  <li>PHP, React, Vue for web solutions</li>
-  <li>Git and cloud infrastructure</li>
-</ul>
+### What I do
+
+I design and build **test automation frameworks** and **backend systems** — from end-to-end QA pipelines to production-grade APIs. My background spans large-scale test infrastructure, cloud-native validation, and data engineering.
+
+Currently focused on: Playwright-based E2E frameworks, Python/FastAPI microservices, and CI/CD pipeline design.
+
+---
+
+### Tech Stack
+
+**QA & Automation** — Playwright, Pytest, JUnit, BDD/Gherkin, GitHub Actions
+
+**Backend** — Python (FastAPI, Scrapy, Celery), Java Spring Boot, REST/GraphQL
+
+**Data** — BigQuery, cloud-native ETL, time series analysis
+
+**Infrastructure** — Docker, CI/CD pipelines, Linux, Git
+
+---
+
+### Selected Work
+
+**[axiom-vault](https://github.com/5queezer/axiom-vault)** — Zero-knowledge secure storage architecture (Rust). System design and architecture.
+
+**[basana](https://github.com/5queezer/basana)** — Event-driven backtesting and live trading framework (Python). Active contributor — async refactor, Hyperliquid integration.
+
+**Siri Test Automation** *(NDA)* — End-to-end test framework for Siri at Apple. Designed the architecture, built the tooling, scaled across teams.
+
+---
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/christian-pojoni/) | [Email](mailto:christian.pojoni@gmail.com)
+
+🇦🇹 Austrian — 🇪🇸 Madrid — Remote-first
