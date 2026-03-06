@@ -30,8 +30,6 @@ Currently focused on: Playwright-based E2E frameworks, Python/FastAPI microservi
 
 **[basana](https://github.com/5queezer/basana)** — Event-driven backtesting and live trading framework (Python). Active contributor — async refactor, Hyperliquid integration.
 
-**Siri Test Automation** *(NDA)* — End-to-end test framework for Siri at Apple. Designed the architecture, built the tooling, scaled across teams.
-
 ---
 
 ### Connect
