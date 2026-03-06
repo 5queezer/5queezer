@@ -34,6 +34,6 @@ Currently focused on: Playwright-based E2E frameworks, Python/FastAPI microservi
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/christian-pojoni/) | [Email](mailto:christian.pojoni@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/christian-pojoni/)
 
 🇦🇹 Austrian — 🇪🇸 Madrid — Remote-first
