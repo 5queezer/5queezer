@@ -5,7 +5,7 @@ Senior Software Engineer — systems thinker, privacy advocate, OSS contributor.
 I build tools that respect boundaries: between raw data and shared knowledge,
 between complexity and elegance, between what works and what lasts.
 
-## What I'''m building
+## What I'm building
 
 - **[distill](https://github.com/5queezer/distill)** — Privacy-first team memory
   MCP server. Local LLM distillation before team sync. Your raw input never
