@@ -1,6 +1,6 @@
 # Christian Pojoni
 
-Senior Software Engineer — systems thinker, privacy advocate, OSS contributor.
+Software Engineer — systems thinker, privacy advocate, OSS contributor.
 
 I build tools that respect boundaries: between raw data and shared knowledge,
 between complexity and elegance, between what works and what lasts.
