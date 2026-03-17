@@ -13,8 +13,6 @@ between complexity and elegance, between what works and what lasts.
 - **[axiom-vault](https://github.com/5queezer/axiom-vault)** — End-to-end
   encrypted vault with XChaCha20 + Argon2id. Native clients for iOS, Android,
   macOS, Windows, CLI.
-- **[job-tracker](https://github.com/5queezer/job-tracker)** — Self-hosted job
-  application tracker with full API.
 
 ## Stack
 
