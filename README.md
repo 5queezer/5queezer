@@ -1,7 +1,5 @@
 # hey, I'm Christian. 👋
 
-builds things. babysits AI. occasionally ships both.
-
 TypeScript · Python · Rust · React · Next.js · FastAPI
 
 ---
