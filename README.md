@@ -1,25 +1,29 @@
-# Christian Pojoni
+# hey, I'm Christian. 👋
 
-Senior Full-Stack Engineer building scalable web apps, APIs, and local AI tools with TypeScript, Python, React, Next.js, and Rust.
+builds things. babysits AI. occasionally ships both.
 
-## Selected Projects
+TypeScript · Python · Rust · React · Next.js · FastAPI
 
-- **[axiom-vault](https://github.com/5queezer/axiom-vault)** — Cross-platform encrypted vault with client-side security built in Rust.
-- **[nexus-crm](https://github.com/5queezer/nexus-crm)** — Full-stack CRM for lead tracking, Kanban workflows, documents, and auth. <!-- - **[gps-reliability](https://github.com/5queezer/gps-reliability)** — API and dashboard for GPS reliability forecasting based on space-weather data. -->
-- **[distill](https://github.com/5queezer/distill)** — Privacy-first MCP server for turning raw local notes into reusable team knowledge. <!-- - **[better-echo](https://github.com/5queezer/better-echo)** — Local speech-to-text enhancement with domain-aware transcript correction. -->
-- **[hrafn](https://github.com/5queezer/hrafn)** — Rust-first AI tooling platform optimized for local execution and reliability.
+---
 
-## Focus
+## things I built
 
-- Scalable web applications and API systems
-- Local AI workflows and developer tools
-- Clean architecture, testing, and engineering quality
+**[axiom-vault](https://github.com/5queezer/axiom-vault)**
+encrypted credential vault. client-side. Rust. because cloud storage of secrets is a trust exercise I don't want to do.
 
-## Tech
+**[nexus-crm](https://github.com/5queezer/nexus-crm)**
+full-stack CRM with Kanban, documents, and auth. built it because every other CRM was either $200/month or a spreadsheet.
 
-TypeScript, Python, React, Next.js, Rust, FastAPI, PostgreSQL, Docker, GitHub Actions
+**[distill](https://github.com/5queezer/distill)**
+MCP server that turns messy local notes into reusable knowledge. privacy-first, runs entirely local.
 
-## Connect
+**[hrafn](https://github.com/5queezer/hrafn)**
+Rust-first AI tooling platform for local execution. no API keys, no cloud dependency, no excuses.
 
-- [LinkedIn](https://www.linkedin.com/in/christian-pojoni)
-- Madrid, Spain
+---
+
+## currently
+
+- squeezing complexity out of systems
+- making AI do the paperwork
+- → [LinkedIn](https://www.linkedin.com/in/christian-pojoni)
