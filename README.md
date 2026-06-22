@@ -1,6 +1,6 @@
 # Christian Pojoni
 
-Software engineer building secure, local-first systems.
+Full-stack engineer focused on local-first AI, privacy-preserving software, and maintainable product systems.
 
 Based in Madrid. Working primarily with TypeScript, Python, Rust, React, Next.js, and FastAPI.
 
