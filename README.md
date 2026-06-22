@@ -1,27 +1,30 @@
-# hey, I'm Christian. 👋
+# Christian Pojoni
 
-TypeScript · Python · Rust · React · Next.js · FastAPI
+Full-stack engineer focused on local-first AI, privacy-preserving software, and maintainable product systems.
 
----
+Based in Madrid. Working primarily with TypeScript, Python, Rust, React, Next.js, and FastAPI.
 
-## things I built
+## Selected Projects
 
-**[axiom-vault](https://github.com/5queezer/axiom-vault)**
-encrypted credential vault. client-side. Rust. because cloud storage of secrets is a trust exercise I don't want to do.
+### [Axiom Vault](https://github.com/5queezer/axiom-vault)
+A client-side encrypted credential vault built in Rust. Sensitive data is encrypted and stored locally, without relying on cloud-based secret storage.
 
-**[nexus-crm](https://github.com/5queezer/nexus-crm)**
-full-stack CRM with Kanban, documents, and auth. built it because every other CRM was either $200/month or a spreadsheet.
+### [Nexus CRM](https://github.com/5queezer/nexus-crm)
+A full-stack CRM with Kanban workflows, document management, authentication, and structured customer operations.
 
-**[distill](https://github.com/5queezer/distill)**
-MCP server that turns messy local notes into reusable knowledge. privacy-first, runs entirely local.
+### [Distill](https://github.com/5queezer/distill)
+A local-first MCP server that converts unstructured notes into reusable knowledge and contextual data. Designed to run entirely on-device.
 
-**[hrafn](https://github.com/5queezer/hrafn)**
-Rust-first AI tooling platform for local execution. no API keys, no cloud dependency, no excuses.
+### [Hrafn](https://github.com/5queezer/hrafn)
+A Rust-based platform for running AI tooling locally without API keys or external cloud dependencies.
 
----
+## Current Focus
 
-## currently
+- Local-first AI infrastructure
+- Secure developer tooling
+- Applied Rust systems
+- Reducing complexity in product architecture
 
-- squeezing complexity out of systems
-- making AI do the paperwork
-- → [LinkedIn](https://www.linkedin.com/in/christian-pojoni)
+## Contact
+
+Website · [LinkedIn](https://www.linkedin.com/in/christian-pojoni)
