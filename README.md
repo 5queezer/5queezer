@@ -6,17 +6,17 @@ Based in Madrid. Working primarily with TypeScript, Python, Rust, React, Next.js
 
 ## Selected Projects
 
-### [Axiom Vault](https://github.com/5queezer/axiom-vault)
-A client-side encrypted credential vault built in Rust. Sensitive data is encrypted and stored locally, without relying on cloud-based secret storage.
+### [Hermes Agent ARM64](https://github.com/5queezer/hermes-agent-arm64)
+An ARM64 build and deployment package for Hermes Agent, designed for Coolify-based hosting and repeatable local deployment.
 
 ### [Nexus CRM](https://github.com/5queezer/nexus-crm)
-A full-stack CRM with Kanban workflows, document management, authentication, and structured customer operations.
-
-### [Distill](https://github.com/5queezer/distill)
-A local-first MCP server that converts unstructured notes into reusable knowledge and contextual data. Designed to run entirely on-device.
+A full-stack lead and opportunity management suite with Kanban workflows, document handling, authentication, and Google OAuth.
 
 ### [Hrafn](https://github.com/5queezer/hrafn)
-A Rust-based platform for running AI tooling locally without API keys or external cloud dependencies.
+A modular AI agent runtime with local memory integration, focused on running agent workflows without depending on external cloud services.
+
+### [Aver](https://github.com/5queezer/aver)
+A local-first, auditable memory layer for coding agents, built in Rust for maintainability and on-device execution.
 
 ## Current Focus
 
