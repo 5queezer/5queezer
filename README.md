@@ -1,9 +1,8 @@
 # Christian Pojoni
 
-Backend and platform engineer building developer tools and AI tooling.
+Backend engineer working with Python, TypeScript, and Rust.
 
-Python · TypeScript · Rust · Madrid
-
-**[Aver](https://github.com/5queezer/aver)** — local-first, auditable memory for coding agents, written in Rust.
+[Aver](https://github.com/5queezer/aver) — an experiment in local-first memory for coding agents.
 
 [LinkedIn](https://www.linkedin.com/in/christian-pojoni)
+
